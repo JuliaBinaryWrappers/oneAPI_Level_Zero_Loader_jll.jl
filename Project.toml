@@ -1,0 +1,12 @@
+name = "oneAPI_Level_Zero_Loader_jll"
+uuid = "13eca655-d68d-5b81-8367-6d99d727ab01"
+version = "1.0.0+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+oneAPI_Level_Zero_Headers_jll = "f4bc562b-d309-54f8-9efb-476e56f0410d"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.0"
+oneAPI_Level_Zero_Headers_jll = "=1.0.0"
