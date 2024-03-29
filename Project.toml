@@ -1,6 +1,6 @@
 name = "oneAPI_Level_Zero_Loader_jll"
 uuid = "13eca655-d68d-5b81-8367-6d99d727ab01"
-version = "1.16.1+0"
+version = "1.16.11+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -14,5 +14,5 @@ JLLWrappers = "1.2.0"
 julia = "1.0"
 Pkg = "1"
 Libdl = "1"
-oneAPI_Level_Zero_Headers_jll = "=1.9.1"
+oneAPI_Level_Zero_Headers_jll = "=1.9.2"
 Artifacts = "1"
