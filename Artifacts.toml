@@ -1,20 +1,20 @@
 [[oneAPI_Level_Zero_Loader]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "157bd13f0367c1719b618801aafff3ecdf63b032"
+git-tree-sha1 = "269ba29c7af29354fa66990b07c59fc7ddeda845"
 libc = "glibc"
 os = "linux"
 
     [[oneAPI_Level_Zero_Loader.download]]
-    sha256 = "4df22b2e4bc1d813b6dc3a0170fbbadd7358b4cf4a447a71393f2d8e19063acb"
-    url = "https://github.com/JuliaBinaryWrappers/oneAPI_Level_Zero_Loader_jll.jl/releases/download/oneAPI_Level_Zero_Loader-v1.29.0+0/oneAPI_Level_Zero_Loader.v1.29.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "3d02a606033a32e5ce502b0e1d8ee94ea8deed6e63ae9632c3c2e077698a7f3b"
+    url = "https://github.com/JuliaBinaryWrappers/oneAPI_Level_Zero_Loader_jll.jl/releases/download/oneAPI_Level_Zero_Loader-v1.32.0+0/oneAPI_Level_Zero_Loader.v1.32.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[oneAPI_Level_Zero_Loader]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "68949ef0d5bd4ed2f7f40a34ac0c6fd024b51881"
+git-tree-sha1 = "dc52407f748f6db1d47ac21e265a508067df6cb8"
 libc = "musl"
 os = "linux"
 
     [[oneAPI_Level_Zero_Loader.download]]
-    sha256 = "aad6741ab17315736d3350ca6fbce1bac4df2cc9d0a7b4eb825d19f4cf421caa"
-    url = "https://github.com/JuliaBinaryWrappers/oneAPI_Level_Zero_Loader_jll.jl/releases/download/oneAPI_Level_Zero_Loader-v1.29.0+0/oneAPI_Level_Zero_Loader.v1.29.0.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "7f969212d8f155e3999a964807c59216dd6a6155efa73486ea857604f43005df"
+    url = "https://github.com/JuliaBinaryWrappers/oneAPI_Level_Zero_Loader_jll.jl/releases/download/oneAPI_Level_Zero_Loader-v1.32.0+0/oneAPI_Level_Zero_Loader.v1.32.0.x86_64-linux-musl-cxx11.tar.gz"
